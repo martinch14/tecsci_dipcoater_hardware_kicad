@@ -15,16 +15,18 @@ Comment3 "Revisor: Mariano Campos"
 Comment4 "Revisor: Diego Brengi"
 $EndDescr
 $Sheet
-S 2450 3850 2250 1550
+S 5250 1950 2250 1550
 U 5D952A19
 F0 "esp32_tmc5130_" 50
 F1 "esp32_tmc5130_.sch" 50
+F2 "CLK16" I L 5250 3150 50 
 $EndSheet
 $Sheet
 S 2450 1850 2250 1650
 U 5D952A48
 F0 "alimentacion" 50
 F1 "alimentacion.sch" 50
+F2 "CLK16" O R 4700 3150 50 
 $EndSheet
 $Comp
 L Mechanical:MountingHole H101
@@ -114,4 +116,6 @@ F 3 "~" H 5750 6250 50  0001 C CNN
 	1    5750 6250
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	4700 3150 5250 3150
 $EndSCHEMATC
