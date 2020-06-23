@@ -12,4 +12,4 @@ View 3D
 
 ![alt text](tecsci_dip/tecsci_dip/tecsci_dip_b.png)
 
-![alt text](tecsci_dip/tecsci_dip/tecsci_dip_c.png)
+![alt text](tecsci_dip/tecsci_dip/tecsci_dip_c.jpeg)
